@@ -25,7 +25,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yutian.nn</string>
+				<string>com.menggang.kuaileniuniu</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
@@ -33,7 +33,7 @@
 				<key>subtitle</key>
 				<string>谢谢安装</string>
 				<key>title</key>
-				<string>闲来牛牛</string>
+				<string>快乐牛牛</string>
 			</dict>
 		</dict>
 	</array>
