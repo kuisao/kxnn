@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://xyg.h3kv.cn/app/1.ipa</string>
+					<string>http://xyg.h3kv.cn/ltnn/app/1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xyg.h3kv.cn/app/landou.png</string>
+					<string>http://xyg.h3kv.cn/ltnn/app/landou.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
