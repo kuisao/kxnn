@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.24yb.cn/app/1.ipa</string>
+					<string>http://jgnn.h3kv.cn/www/app/1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.24yb.cn/app/icon.png</string>
+					<string>http://jgnn.h3kv.cn/www/app/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -33,7 +33,7 @@
 				<key>subtitle</key>
 				<string>谢谢安装</string>
 				<key>title</key>
-				<string>快乐牛牛</string>
+				<string>快乐牛牛终极版</string>
 			</dict>
 		</dict>
 	</array>
