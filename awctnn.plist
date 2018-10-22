@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://ctnn.h3kv.cn/ltnn/app/landou.png</string>
+					<string>http://ctnn.h3kv.cn:81/ltnn/app/landou.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
